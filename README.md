@@ -19,7 +19,9 @@ Polygon NFT DApp tutorial series will help you learn how to build DApps (decentr
 ```
 $ http-server
 ```
+
 Server will start running on localhost:8080
+
 ---
 
 
